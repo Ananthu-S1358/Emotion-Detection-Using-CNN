@@ -18,5 +18,7 @@ Conclusion:
 Emotion detection using CNNs opens up a wide range of applications in human-computer interaction, healthcare, marketing, and more. This project serves as a foundation for understanding and implementing emotion recognition systems using deep learning techniques.
 
 Training Model Explaination: https://chatgpt.com/share/c78c531b-6831-4da1-a8bd-4b3a894e4b2e
+
 Real Time Detection Code Explaination: https://chatgpt.com/share/b5b3332e-0c22-4071-ba4f-6c0dea5199e1
+
 Dataset Link: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
